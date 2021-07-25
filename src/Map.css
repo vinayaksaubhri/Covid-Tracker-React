@@ -3,7 +3,7 @@
   background-color: white;
   padding: 1rem;
   margin-top: 16px;
-  background: radial-gradient(100% 98.02% at 0% 1.98%, rgba(255, 255, 255, 0.83) 0.01%, rgba(255, 255, 255, 0.47) 100%);
+  background-color: #1e1e30 !important;
   box-shadow: 0px 30px 100px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
 }

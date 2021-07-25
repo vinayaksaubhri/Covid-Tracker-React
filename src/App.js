@@ -123,10 +123,10 @@ const App = () => {
       </div>
       <Card className="app__right">
         <CardContent>
-            <h3 >Live Cases by Country</h3>
-            <Table countries={tableData} />
-            <h3 className="app__graphtitle">Worldwide new {casesType}</h3>
-            <LineGraph className="app__graph" casesType={casesType} />  
+          <h3>Live Cases by Country</h3>
+          <Table countries={tableData} />
+          <h3 className="app__graphtitle">Worldwide new {casesType}</h3>
+          <LineGraph className="app__graph" casesType={casesType} />
         </CardContent>
       </Card>
     </div>
